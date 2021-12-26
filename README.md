@@ -12,7 +12,7 @@ Sono inoltre riportati dei videotutorials per orientare al meglio le attività n
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="640" height="320" src="https://youtube.com/embed/zs5_UVYywkw" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/LiDs3H0KT3c" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
